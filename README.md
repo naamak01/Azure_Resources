@@ -1,9 +1,10 @@
 # Azure_Resources
-![image](https://github.com/user-attachments/assets/859d9d95-971e-432b-817a-3f42db915b5e)
 
  Networking Lab (Creating our Resources in Azure)
  
 ## Part 1: Create a Windows 10 Virtual Machines
+
+![image](https://github.com/user-attachments/assets/859d9d95-971e-432b-817a-3f42db915b5e)
 
 1. Create a Resource Group
 2. Create a Windows 10 Virtual Machine (VM)
