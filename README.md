@@ -17,3 +17,6 @@
 6. Ensure both VMs are in the same Virtual Network / Subnet
 7. End the lab, but keep both VMs for Part 2!
 
+## Sample Images while creating Linux Virtual Machine
+
+![image](https://github.com/user-attachments/assets/7ffa7abe-faa7-4e35-96eb-cdea2663a77f)
