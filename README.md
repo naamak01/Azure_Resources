@@ -1,6 +1,6 @@
 # Azure-Network-Protocols
 
-![image](https://github.com/user-attachments/assets/859d9d95-971e-432b-817a-3f42db915b5e)
+   ![image](https://github.com/user-attachments/assets/859d9d95-971e-432b-817a-3f42db915b5e)
 
  Networking Lab (Creating our Resources in Azure)
 
