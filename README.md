@@ -1,14 +1,21 @@
 # Azure-Network-Protocols
 
+![image](https://github.com/user-attachments/assets/859d9d95-971e-432b-817a-3f42db915b5e)
+
  Networking Lab (Creating our Resources in Azure)
 
 ## Network Security Groups/ Inspecting Traffic Between Azure Virtual Machines
 
 ## Environments and Technologies Used
+
 Microsoft Azure (Virtual Machines/Computer)
+
 Remote Desktop Connection
+
 Wireshark
+
 Active Directory Domain Services
+
 PowerShell
 
 ## Operating Systems Used
@@ -23,9 +30,6 @@ PowerShell
 
   
 ## Part 1: Create a Windows 10 Virtual Machines
-
-![image](https://github.com/user-attachments/assets/859d9d95-971e-432b-817a-3f42db915b5e)
-
 
 1. Create a Resource Group
 2. Create a Windows 10 Virtual Machine (VM)
